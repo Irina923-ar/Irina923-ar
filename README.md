@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **galanirinad@gmail.com**
+- Personal portfolio: **(https://portfolio-mocha-two-37.vercel.app/)**
 
--  Personal portfolio: **portfolio-mocha-two-37.vercel.app**
+- 📫 How to reach me **galanirinad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
