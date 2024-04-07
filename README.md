@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💻 Personal portfolio: **https://portfolio-mocha-two-37.vercel.app/**
+- 💻 My personal portfolio: **https://portfolio-mocha-two-37.vercel.app/**
 
 - 📫 How to reach me **galanirinad@gmail.com**
 
